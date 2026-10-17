@@ -17,7 +17,7 @@ I'm a QA Engineer passionate about software quality, finding defects, and ensuri
 
 - **Test Case Documentation:** Writing test cases and test scenarios for sample applications.
 - **Bug Reporting:** Documenting defects with steps to reproduce, expected results, and actual results.
-- **Automation Testing:** Asset Management System using Playwright(Typescript).
+- **Automation Testing:** QA Testing: Hands-on experience with software testing and defect reporting.
 
 ### 🎯 Current Goals
 
